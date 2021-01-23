@@ -30,7 +30,6 @@ module.exports = {
       },
     ],
     'quote-props': ['error', 'as-needed'],
-    'react/state-in-constructor': ['error', 'never'],
     'react/jsx-props-no-spreading': [0, {
       html: 'ignore' || 'enforce',
       custom: 'ignore' || 'enforce',

@@ -1,4 +1,7 @@
-import AuthFrom from './components/AuthForm';
+import React from 'react';
+import AuthFrom from './components/Auth/Auth';
+
+import './App.scss';
 
 function App() {
   return (
