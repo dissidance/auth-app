@@ -4,6 +4,7 @@
 
   &__input {
     margin-top: 40px !important;
+    width: 310px !important;
   }
 
   &__button {
@@ -11,5 +12,12 @@
     border-radius: 0 !important;
     background: rgb(230, 175, 230) !important;
     color:purple !important;
+  }
+
+  &__input-error {
+    color: #f44336;
+    margin-top: 3px !important;
+    margin-left: 14px;
+    font-size: 0.75rem;
   }
 }
